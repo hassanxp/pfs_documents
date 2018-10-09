@@ -36,9 +36,43 @@ that provides test quartz, arcs and science data.
 - 3 arms merged
 - initial flat-fielding in accordance to new framework
 - detector map generated
-- initial flux calibration?
+- initial flux calibration (TBC)
+- more complete test harness
 
 2DDRP-6.0 (Sep 2019)
 ====================
 
-Release version for early commissioning.
+Version for early PSF commissioning. Sky data from LAM used for PSF model color dependence
+
+- Initial 2D PSF model with color dependence
+- Initial sky subtraction (to 2% TBC level)
+
+2DDRP-7.0 (Mar 2020)
+====================
+
+Updated version for commissioning, with improvements based on acquired data during the early commissioning phase.
+
+- Updated 2D PSF model
+- Updated sky subtraction (to 1% TBC error level)
+- Performance (speed) improved 
+
+2DDRP-8.0 (Sep 2020)
+====================
+
+Intermediate release with bug fixes.
+
+
+2DDRP-9.0 (Jan 2021)
+====================
+
+Further improvements, bug fixes
+
+- Bug fixes
+- Missing functions
+- Refactoring
+- Performance (speed) improvements
+- sky subtraction to 0.5% error level
+
+
+
+
