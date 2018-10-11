@@ -5,7 +5,7 @@ Some documentation for pfs_documents
    :maxdepth: 2
    :caption: Contents:
 
-   eups
+   drp2dplan
 
 
 .. Indices and tables
