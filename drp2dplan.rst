@@ -45,6 +45,7 @@ that provides test quartz, arcs and science data.
 Version for early PSF commissioning. Sky data from LAM used for PSF model color dependence
 
 - Initial 2D PSF model with color dependence
+- Initial telluric correction
 - Initial sky subtraction (to 2% TBC level)
 
 2DDRP-7.0 (Mar 2020)
@@ -53,6 +54,7 @@ Version for early PSF commissioning. Sky data from LAM used for PSF model color 
 Updated version for commissioning, with improvements based on acquired data during the early commissioning phase.
 
 - Updated 2D PSF model
+- Improved telluric modelling
 - Updated sky subtraction (to 1% TBC error level)
 - Performance (speed) improved 
 
